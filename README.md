@@ -1,26 +1,47 @@
-# About Me
-Your not so average DevOps baddie
+# Hey, I'm Jessica 👋
 
-- Python is made for me, other programming languages are out to get me 😦
-- Certified AWS cost reducorrr
-- My underrated opinion is, k8s is complicated for NOTHING!
-
-## Contacts
+DevOps Engineer who builds infrastructure that doesn't break at 2am.
 
 [![discord-badge]][main] [![gmail-badge]][gmail] [![twitter-badge]][twitter] [![linkedin-badge]][linkedin]
 
-## Current
+📝 Check out my blogs on [dev.to/augusthottie](https://dev.to/augusthottie)
 
-- DevOps Engineer II at **Notus Labs** (Remote/2024-current)
+## What I Work With
 
-## Previous
-- Lead DevOps Engineer at [**Patara Labs**](https://my.patara.app/) (Remote/2023-2024)
-- DevOps Engineer Intern at [**HNG**](https://hng.tech/) (Remote/6 months)
+```
+Cloud:          AWS (ECS, RDS, ElastiCache, ALB, VPC, CodePipeline, CodeDeploy, IAM)
+IaC:            Terraform (modules, state management)
+Containers:     Docker, ECS Fargate, Kubernetes
+CI/CD:          AWS CodePipeline, GitHub Actions, ArgoCD
+Languages:      Python, TypeScript, Bash
+Monitoring:     CloudWatch, Prometheus, Grafana
+Other:          Linux, Git, Nginx
+```
+
+## Certifications
+
+<img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+
+## Experience
+
+**Lead DevOps Engineer** @ [Patara Labs](https://my.patara.app/) *(2024 – Present)*
+**DevOps Engineer II** @ Notus Labs *(2023 – 2024)*
+
+## Hot Takes
+
+- K8s is complicated for NOTHING and I will die on this hill
+- Python was made for me. Other languages are out to get me 😦
+- If your rollback requires a human, it's not production-grade
+
+---
+
+<sub>Portfolio: [augusthottie.com](https://www.augusthottie.com/) · Your not so average DevOps baddie</sub>
 
 [main]: https://github.com/augusthottie
 [linkedin]: https://www.linkedin.com/in/jessica-chioma-chimex
 [gmail]: mailto:jessicachiomachimex@gmail.com
 [twitter]: https://twitter.com/augusthottie
+
 [discord-badge]: https://img.shields.io/badge/augusthottie-black?logo=discord&style=for-the-badge
 [gmail-badge]: https://img.shields.io/badge/Gmail-black?logo=gmail&style=for-the-badge
 [twitter-badge]: https://img.shields.io/badge/augusthottie-black?logo=x&style=for-the-badge
